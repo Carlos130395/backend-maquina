@@ -1,0 +1,19 @@
+﻿# Visual Studio temporary files
+.vs/
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+# Logs
+*.log
+
+# Local db files
+*.mdf
+*.ldf
